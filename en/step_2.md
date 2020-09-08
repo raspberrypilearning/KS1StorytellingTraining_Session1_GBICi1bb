@@ -1,7 +1,9 @@
 ## The Gender Balance in Computing (GBIC) Project
 
 Gender Balance in Computing (GBIC) is a new programme of research to investigate how we can better engage girls in computing and increase the number of girls selecting Computer Science at GCSE and A level.
+
 It is part of the National Centre for Computing Education (NCCE), which is delivered by a consortium of organisations including the Raspberry Pi Foundation, STEM Learning and the British Computer Society. It is funded by the Department for Education to support computing in schools in England.
+
 The NCCE’s vision is for every child in every school in England to have a world-leading computing education. We provide high-quality support for the teaching of computing in schools and colleges, from Key Stage 1 through to A level. Our extensive range of training, resources, and support covers elements of the curriculum at every Key Stage, catering for all levels of subject knowledge and experience.
 
 ![NCCE Images](images/ks1storytelling-NCCEImage.png)
@@ -14,6 +16,7 @@ The research is made up of several randomised control trials. Each trial investi
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 
 You are part of the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6 and 8, although this course is for those working with KS1.
+
 The resources have been produced by the Raspberry Pi Foundation, and you will be able to contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contacts will be provided throughout the two sessions.
 
 **The GBIC team at the Raspberry Pi Foundation**
