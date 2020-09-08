@@ -1,11 +1,16 @@
-title: KS1StorytellingTraining_Session1_GBICi1bb
+title: KS1Storytelling Session 1 GBICi1b
 hero_image: images/banner.png
-description: KS1StorytellingTraining_Session1_GBICi1bb description
+description: green-goals description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-09-08"
+last_tested: "2020-08-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Introduction to the course
+  - title: The Gender Balance in Computing (GBIC) Project
+  - title: The Teaching Approach trial
+  - title: The Storytelling approach
+  - title: Why would storytelling be good for girls?
+  - title: Data collection using the online survey
+  - title: Additional information and guidance
+  - title: End of Session 1
