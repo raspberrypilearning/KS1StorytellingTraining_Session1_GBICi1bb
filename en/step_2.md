@@ -4,7 +4,7 @@ Gender Balance in Computing (GBIC) is a new programme of research to investigate
 It is part of the National Centre for Computing Education (NCCE), which is delivered by a consortium of organisations including the Raspberry Pi Foundation, STEM Learning and the British Computer Society. It is funded by the Department for Education to support computing in schools in England.
 The NCCE’s vision is for every child in every school in England to have a world-leading computing education. We provide high-quality support for the teaching of computing in schools and colleges, from Key Stage 1 through to A level. Our extensive range of training, resources, and support covers elements of the curriculum at every Key Stage, catering for all levels of subject knowledge and experience.
 
-![NCCE Images](images/ks1storytelling-NCCEImage.gif)
+![NCCE Images](images/ks1storytelling-NCCEImage.png)
 
 For the Gender Balance in Computing research programme, trials began in 2019 and will run to 2022 in Key Stages 1 to 4. By the end of 2022, over 15,000 students and 550 schools will be involved in the programme. It will be the largest national research effort to tackle gender balance in computing to date.
 
