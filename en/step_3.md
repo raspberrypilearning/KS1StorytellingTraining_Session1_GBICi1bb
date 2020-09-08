@@ -1,7 +1,7 @@
-## What next?
+## The Teaching Approach trial
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+It is important to note that, while the research suggests that this teaching approach may be particularly beneficial for girls, we expect that a wide range of pupils will benefit. When we talk about boys’ and girls’ attitudes to computing throughout this course, we are basing the discussion on research which has suggested differences on average between them. We recognise that this does not necessarily reflect all pupils’ experiences of computing.
 
-![ProjectName project](images/projectname-project.png)
-
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+In the Teaching Approach trial, we are asking two key questions. Does linking computing lessons to storytelling in Key Stage 1:
++ make computing more accessible to a range of pupils?
++ improve girls’ perception of computing?
