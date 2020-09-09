@@ -14,3 +14,7 @@ The information available here in Session 1 is available as a video recording of
 Session 1 focuses on some of the research used as the basis for the trial, so that you can better understand why changing your teaching approach could affect the gender balance in computing in your school. The Storytelling approach and the research behind it will be introduced, including why Storytelling is thought to be engaging for girls. You will also consider some of the practicalities of implementing Storytelling in your classroom.
 
 Session 2 (in two parts) and allows you time to explore the resources so that you are fully at ease with the content before the trial begins. The session also includes some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
+
+Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session, Session 1.
+Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to go back to access Session 1 and Session 2, Parts 1 & 2.
+
