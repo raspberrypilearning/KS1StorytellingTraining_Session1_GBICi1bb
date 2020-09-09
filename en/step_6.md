@@ -20,3 +20,7 @@ At the end of the project, we will ask you for your feedback and, in some cases,
  
 As a reminder, you may also be contacted by our colleagues in the Behavioural Insights Team to ask you some questions about participating in the trial, which is separate from the survey data. Please do respond to them to help us better understand your experience of the research programme.
 
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
