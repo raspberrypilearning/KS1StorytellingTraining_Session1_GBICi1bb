@@ -15,6 +15,6 @@ Session 1 focuses on some of the research used as the basis for the trial, so th
 
 Session 2 (in two parts) and allows you time to explore the resources so that you are fully at ease with the content before the trial begins. The session also includes some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
 
-Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session, Session 1.
-Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to go back to access Session 1 and Session 2, Parts 1 & 2.
+Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session (Session 1).
+Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to access Session 1 and Session 2 (Parts 1 & 2).
 
