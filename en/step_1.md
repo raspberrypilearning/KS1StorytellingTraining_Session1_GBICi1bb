@@ -2,7 +2,7 @@
 
 Hello, and welcome to the Gender Balance in Computing project Storytelling trial. In this first session, you will be introduced to the Gender Balance in Computing project and the Teaching Approach trial.
 
-The online course is split into two sessions. Session 2 is given in two parts. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the two sessions until the end of the Teaching Approach trial. 
+The online course is split into two sessions. Session 2 is given in two parts - hence three overall. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the two sessions until the end of the Teaching Approach trial. 
  
 The information in this session, Session 1, formed the basis of the Storytelling webinar. Even if you attended the Webinar it is recommended that you work your way through the Session 1 steps to ensure you understand the emphasis of the trial and as a recap.
  
