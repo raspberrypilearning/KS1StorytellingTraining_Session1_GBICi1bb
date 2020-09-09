@@ -29,5 +29,5 @@ What are your experiences of gender balance in computing in your classroom? Do y
 
 Click the green button (below right) for the next step in this session.
 
-Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session (Session 1).
-Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to access the menu for Session 1 and Session 2 (Parts 1 & 2).
+If you need to go back to the list of contents for this session (Session 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
