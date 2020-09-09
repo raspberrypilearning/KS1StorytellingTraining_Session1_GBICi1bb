@@ -24,5 +24,5 @@ At the Raspberry Pi Foundation, we are working on the GBIC programme in a number
 
 ![RPF GBIC team](/images/GBICTeam.png)
 
-**Discussion**
+**Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find there is a difference in boys’ and girls’ engagement with computing or their attitudes towards it?
