@@ -5,3 +5,6 @@ It is important to note that, while the research suggests that this teaching app
 In the Teaching Approach trial, we are asking two key questions. Does linking computing lessons to storytelling in Key Stage 1:
 + make computing more accessible to a range of pupils?
 + improve girls’ perception of computing?
+
+Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session (Session 1).
+Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to access Session 1 and Session 2 (Parts 1 & 2).
