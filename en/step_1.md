@@ -2,7 +2,7 @@
 
 Hello, and welcome to the Gender Balance in Computing project Storytelling trial. In this first session, you will be introduced to the Gender Balance in Computing project and the Teaching Approach trial.
 
-The online course is split into two sessions. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the two sessions until the end of the Teaching Approach trial. 
+The online course is split into two sessions. The second session is given in two parts. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the two sessions until the end of the Teaching Approach trial. 
  
 The information in this session, Session 1, formed the basis of the Storytelling webinar. Even if you attended the Webinar it is recommended that you work your way through the Session 1 steps to ensure you understand the emphasis of the trial and as a recap.
  
@@ -13,4 +13,4 @@ The information available here in Session 1 is available as a video recording of
 
 Session 1 focuses on some of the research used as the basis for the trial, so that you can better understand why changing your teaching approach could affect the gender balance in computing in your school. The Storytelling approach and the research behind it will be introduced, including why Storytelling is thought to be engaging for girls. You will also consider some of the practicalities of implementing Storytelling in your classroom.
 
-Session 2 is given in two parts and allows you time to explore the resources so that you are fully at ease with the content before the trial begins. The session also includes some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
+Session 2 (in two parts) and allows you time to explore the resources so that you are fully at ease with the content before the trial begins. The session also includes some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
