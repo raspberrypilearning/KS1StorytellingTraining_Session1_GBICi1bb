@@ -10,3 +10,8 @@ A reminder of your next steps:
 + Get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
 
 We are extremely excited to start the trial and really appreciate your support for the Gender Balance in Computing programme!
+
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
