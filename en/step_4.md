@@ -20,3 +20,6 @@ story-writing (structure) digital storytelling (includes animation, graphics and
 + problem solve as the program develops.
 
 **Digital storytelling** is used as a brief for creating programs. Pupils’ programs are converted into digital artefacts through the use of images, voice narration, music, text and motion for interactive animations. Digital storytelling requires pupils to be innovative and structure their ideas around a narrative.
+
+Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session (Session 1).
+Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to access Session 1 and Session 2 (Parts 1 & 2).
