@@ -26,3 +26,6 @@ At the Raspberry Pi Foundation, we are working on the GBIC programme in a number
 
 **Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find there is a difference in boys’ and girls’ engagement with computing or their attitudes towards it?
+
+Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b) to go back to the list of contents for this session (Session 1).
+Click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b) to access Session 1 and Session 2 (Parts 1 & 2).
