@@ -1,4 +1,4 @@
-## Introduction to the course
+## Session 1: KS1 Storytelling Training - Introduction
 
 Hello, and welcome to the Gender Balance in Computing project Storytelling trial. In this first session, you will be introduced to the Gender Balance in Computing project and the Teaching Approach trial.
 
