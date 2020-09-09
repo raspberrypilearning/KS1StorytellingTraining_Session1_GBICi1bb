@@ -9,6 +9,6 @@ Previous research using storytelling approaches with primary-aged children has s
 + Encouraging girls to program animated stories increased motivation to engage in programming and to persist with debugging when something went wrong [Kelleher et al., 2007](https://dl.acm.org/doi/abs/10.1145/1240624.1240844).
 + Using a storyboard template to plan the animation was useful to help solve problems in the code and to encourage girls to work out a solution to complete their stories [Burke & Kafai, 2010](https://dl.acm.org/doi/abs/10.1145/1810543.1810611).   
  
-**Discussion**
+**Pause and reflect**
 Do you notice differences in how interested female and male pupils are in computing, or how much experience they have outside of school? Have you noticed that female and male pupils use computers or computing lessons in different ways? 
 
