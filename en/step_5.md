@@ -12,3 +12,7 @@ Previous research using storytelling approaches with primary-aged children has s
 **Pause and reflect**
 Do you notice differences in how interested female and male pupils are in computing, or how much experience they have outside of school? Have you noticed that female and male pupils use computers or computing lessons in different ways? 
 
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
