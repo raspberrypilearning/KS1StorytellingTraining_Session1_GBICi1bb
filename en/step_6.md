@@ -6,13 +6,15 @@ The data collected for the trial will be pupils' attitudes to computing before a
  
 It is really important that both the pre- and post-surveys are completed because this is how we measure the effectiveness of the teaching approach trial. 
 
-Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project Guide](https://docs.google.com/document/d/1GCvtNeQWBAr_5M2xajIXmoqcHco7WPEtvMrsf-v4oGI/edit?usp=sharing) and also in the [Units Overview](http://ncce.io/ZuiEa6).
+**MAY NEED TO CHANGE BELOW IN BOLD
+Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project Guide](https://docs.google.com/document/d/1GCvtNeQWBAr_5M2xajIXmoqcHco7WPEtvMrsf-v4oGI/edit?usp=sharing) and also in the [Units Overview](http://ncce.io/ZuiEa6).**
 
-You may need to take some time to read the questions out for pupils who have difficulty reading them independently, but please ensure pupils answer them in their own voice so that you don't impact the results. Try not to lead pupils to a particular response while helping them to interpret the questions.
+**You may need to take some time to read the questions out for pupils who have difficulty reading them independently, but please ensure pupils answer them in their own voice so that you don't impact the results. Try not to lead pupils to a particular response while helping them to interpret the questions.**
 
-Survey questions are answered with reference to a 4-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to pupils’ attitudes and engagement with computing.
+**Survey questions are answered with reference to a 4-point Likert scale ranging from 1 = Strongly disagree to 4 = Strongly agree and are related to pupils’ attitudes and engagement with computing.**
 
-[Example of survey](http://ncce.io/intervention-survey)
+**[Example of survey](http://ncce.io/intervention-survey)**
+
 
 You will need to assign lesson time prior to Lesson 1 to complete the pre-survey. After the final lesson (Lesson 12), you will also need to allocate time to complete the post-survey.
 
