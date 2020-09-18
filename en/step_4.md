@@ -3,9 +3,13 @@ There is evidence that gender stereotypes develop early, but little evidence on 
 
 In the trial, you will use the Storytelling teaching approach, which aims to use narrative to teach computing. Story writing and digital storytelling are used to introduce computing topics to children when, for instance, teachers might have used game-based computing activities.​ Teachers are provided with resources that centre on teaching pupils computing through programming stories.
 
-During the Storytelling trial, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than the regular Scratch tool. In the picture below you can see that you drag and drop blocks into a horizontal ‘storyline’ in ScratchJr, so the relationship with reading or writing a story in Literacy is clear. This is different to the way the more advanced Scratch tool stacks code in a vertical format, which is closer to text-based programming than storytelling.
+During the Storytelling trial, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than the regular Scratch tool. In the picture below you can see that you drag and drop blocks into a horizontal ‘storyline’ in ScratchJr, so the relationship with reading or writing a story in Literacy is clear.
 
-![Scratchjr versus scratch.png](images/ks1storytelling-ScratchJrVersusScratch.png)
+![Scratchjr.png](images/ks1storytelling-ScratchJr.png)
+
+This is different to the way the more advanced Scratch tool stacks code in a vertical format, which is closer to text-based programming than storytelling.
+
+![Scratch.png](images/ks1storytelling-Scratch.png)
 
 The storytelling teaching approach introduces fundamental computing concepts of sequence, repetition and selection. The trial focuses on two strands of storytelling:
 story-writing (structure) digital storytelling (includes animation, graphics and audio to portray a story).
