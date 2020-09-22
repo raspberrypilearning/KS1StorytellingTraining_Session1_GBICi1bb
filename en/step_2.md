@@ -22,7 +22,7 @@ The resources have been produced by the Raspberry Pi Foundation, and you will be
 **The GBIC team at the Raspberry Pi Foundation**
 At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main contact for any questions you may have about the trial and you can contact her on [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan and Jenny Laidlaw. The resources that you receive for the trial have been developed and produced by Emma Posey, with support from Rik Cross and other colleagues working on educational resources across the Foundation.
 
-![RPF GBIC team](/images/GBICTeam.png)
+![RPF GBIC team](images/GBICTeam.png)
 
 **Pause and reflect**
 What are your experiences of gender balance in computing in your classroom? Do you find there is a difference in boys’ and girls’ engagement with computing or their attitudes towards it?
