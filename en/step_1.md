@@ -4,9 +4,9 @@ Hello, and welcome to the Gender Balance in Computing project Storytelling trial
 
 The online course is split into three sessions. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the three sessions until the end of the Teaching Approach trial. 
  
-The information in this session, Session 1, formed the basis of the Storytelling webinar. Even if you attended the Webinar it is recommended that you work your way through the Session 1 steps to ensure you understand the emphasis of the trial and as a recap.
+The information given in this session, Session 1, formed the basis of the Storytelling webinar. Even if you attended the Webinar it is recommended that you work your way through the Session 1 steps to ensure you understand the emphasis of the trial and as a recap.
  
-The information available here in Session 1 is available as a video recording of the Introduction to Storytelling and as a slide deck from the event. See the links below.
+The information available in Session 1 is available as a video recording of the Introduction to Storytelling and as a slide deck from the event. See the links below.
 
 ![Embedded video of Webinar event](images/ks1storytelling-WebinarIntroEvent.gif)
 ![Embedded slide deck](images/ks1storytelling-WebinarIntroSlideDeck.gif)
