@@ -13,7 +13,7 @@ The information available here in Session 1 is available as a video recording of
 
 Session 1 focuses on some of the research used as the basis for the trial, so that you can better understand why changing your teaching approach could affect the gender balance in computing in your school. The Storytelling approach and the research behind it will be introduced, including why Storytelling is thought to be engaging for girls. You will also consider some of the practicalities of implementing Storytelling in your classroom.
 
-Sessions 2 and 3and allow you time to explore the resources so that you are fully at ease with the content before the trial begins. The sessions also include some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
+Sessions 2 and 3 allow you time to explore the resources so that you are fully at ease with the content before the trial begins. These sessions also include some hands-on development activities for you to complete in order to further your understanding of the resources and ScratchJr. You will need to register your completion of the tasks as they form part of your engagement in the trial.
 
 Click the green button (below right) for the next step in this session.
 
