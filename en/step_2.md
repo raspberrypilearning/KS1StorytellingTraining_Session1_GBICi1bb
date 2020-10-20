@@ -29,5 +29,8 @@ What are your experiences of gender balance in computing in your classroom? Do y
 
 Click the green button (below right) to go to the next step in this session.
 
+**Pause and reflect**
+What are your experiences of gender balance in computing in your classroom? Do you find there is a difference in boys’ and girls’ engagement with computing or their attitudes towards it?
+
 You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session1_GBICi1b).
 You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
