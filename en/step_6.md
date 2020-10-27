@@ -7,7 +7,7 @@ The data collected for the trial will be pupils' attitudes to computing before a
 It is really important that both the pre- and post-surveys are completed, because this is how we will measure the effectiveness of the teaching approach. 
 
 **MAY NEED TO CHANGE BELOW IN BOLD
-Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](https://docs.google.com/document/d/1GCvtNeQWBAr_5M2xajIXmoqcHco7WPEtvMrsf-v4oGI/edit?usp=sharing) and also in the [Units overview](http://ncce.io/ZuiEa6).**
+Pupils will need to complete the pre- and post-surveys online. Each pupil will need to complete the survey individually, so they will need their own computer and/or tablet to work on. A link to the survey is given in the [Project guide](https://ncce.io/k2zQga) and also in the [Units overview](https://ncce.io/glxPE8).**
 
 **You may need to take some time to read the questions out for pupils who have difficulty reading them independently, but please ensure that pupils answer them on their own, in their own words. Try not to lead pupils to a particular response while helping them to understand the questions.**
 
