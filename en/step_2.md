@@ -18,7 +18,7 @@ The trials focus on:
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 + Teaching approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
 
-You are taking part in the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6 and 8, although this course is for teachers working with pupils in key stage 1.
+You are taking part in the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6, and 8, although this course is for teachers working with pupils in key stage 1.
 
 The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
 
