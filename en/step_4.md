@@ -3,7 +3,7 @@ There is evidence that gender stereotypes develop early, but little evidence on 
 
 In the trial, you will use the 'Storytelling' teaching approach, which aims to use narrative to teach computing. Story-writing and digital storytelling are used to introduce computing topics to children when, for instance, teachers use game-based computing activities. Teachers are provided with resources that centre on teaching pupils computing through programming stories.
 
-During the 'Storytelling' project, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than in the Scratch programming language. As you can see in the picture below, you drag and drop blocks into a horizontal 'storyline' in ScratchJr, so the relationship with reading or writing a story in literacy is clear.
+During the 'Storytelling' trial, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than in the Scratch programming language. As you can see in the picture below, you drag and drop blocks into a horizontal 'storyline' in ScratchJr, so the relationship with reading or writing a story in literacy is clear.
 
 ![Scratchjr.png](images/ks1storytelling-ScratchJr.png){:width="400px"}
 
