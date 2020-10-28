@@ -11,8 +11,7 @@ This is different to the way in which the user stacks code in a vertical format 
 
 ![Scratch.png](images/ks1storytelling-Scratch.png){:width="400px"}
 
-The 'Storytelling' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands of storytelling:
-story-writing (structure) and digital storytelling (this includes using animation, graphics, and audio to tell a story).
+The 'Storytelling' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands of storytelling: story-writing (structure) and digital storytelling (this includes using animation, graphics, and audio to tell a story).
 
 **Story-writing** is a means of exploring computer programming. Pupils use these skills to:
 + Construct a story
