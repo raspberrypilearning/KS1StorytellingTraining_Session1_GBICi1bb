@@ -2,7 +2,7 @@
 
 In order to assess whether this teaching approach affects attitudes towards computing, pupils should complete the survey in advance of the first lesson (Unit 1 – Lesson 1) and after the final lesson (Unit 2 – Lesson 6).
 
-The data collected for the trial will be pupils' attitudes to computing before and after implementing the 'Storytelling' teaching approach for 12 weeks (or 12 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf. Any pupil who has opted out should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the teaching approach along with the rest of the class.
+The data collected for the project will be pupils' attitudes to computing before and after implementing the 'Storytelling' teaching approach for 12 weeks (or 12 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf. Any pupil who has opted out should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the teaching approach along with the rest of the class.
  
 It is really important that both the pre- and post-surveys are completed, because this is how we will measure the effectiveness of the teaching approach. You will need to assign lesson time prior to Unit 1 – Lesson 1 to complete the pre-survey. After the final lesson (Unit 2 – Lesson 6), you will also need to allocate time to complete the post-survey.
 
