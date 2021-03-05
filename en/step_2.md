@@ -8,7 +8,7 @@ The NCCE's vision is for every child in every school in England to have a world-
 
 ![NCCE Images](images/NCCEImage.png)
 
-The Gender Balance in Computing programme of research is the largest national research effort to tackle gender balance in computing to date. Trials began in 2019 and will run to 2022 in key stages 1 to 4. By the end of 2022, more than 15,000 students and 550 schools will be involved in the programme.
+The Gender Balance in Computing programme of research is the largest national research effort to tackle gender balance in computing to date. Trials began in 2019 and will run to 2022 in Key Stages 1 to 4. By the end of 2022, more than 15,000 students and 550 schools will be involved in the programme.
 
 The research is made up of several randomised control trials. Each trial investigates a different intervention that previous research has identified as beneficial to girls' engagement with computing, or with science, technology, engineering, and maths more generally. We have recruited schools for each trial and randomly assigned them into two groups: one group will continue with 'business as usual' and the other will complete the new intervention. Our evaluation partners from the Behavioural Insights Team will collect data about both groups before and after the trial to compare the impact that it has had. This is the best way we know of to understand the impact of new practices in education, and it is the approach that is used in education research across the world. 
 
@@ -18,12 +18,12 @@ The trials focus on:
 + Relevance (Year 8): the intervention focuses on using computing and technology to solve real-world problems
 + Teaching approach (Years 2, 4, 6, and 8): the intervention focuses on approaches to teaching computing that may engage more girls in computing
 
-You are taking part in the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6, and 8, although this course is for teachers working with pupils in key stage 1.
+You are taking part in the Teaching Approach trial, in which we are evaluating how well approaches that have successfully engaged more girls in other disciplines work in computing. The trial as a whole will include Years 2, 4, 6, and 8, although this project is for teachers working with pupils in Key Stage 1.
 
-The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the trial if you have any queries. The evaluation of the trial is being conducted by the Behavioural Insights Team, and they will contact you during the trial to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
+The resources have been produced by the Raspberry Pi Foundation, and you can contact us throughout the project if you have any queries. The evaluation of the project is being conducted by the Behavioural Insights Team, and they will contact you during the project to collect data. More information about all of the processes and points of contact will be provided throughout the training sessions.
 
 **The GBIC team at the Raspberry Pi Foundation**
-At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the trial and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the trial, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The resources that you receive for the trial have been developed and produced by Emma Posey, with support from Rik Cross and other colleagues working on educational resources across the Foundation.
+At the Raspberry Pi Foundation, we are working on the GBIC programme in a number of ways. We are recruiting for all of the trials, and you will receive communications about your participation from Katharine Childs. Katharine is your main point of contact for any questions you may have about the project and you can contact her at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). Hayley Leonard is responsible for the day-to-day management of the project, with programme management and implementation led by Sue Sentance, Oliver Quinlan, and Jenny Laidlaw. The resources that you receive for the project have been developed and produced by Emma Posey, with support from Rik Cross and other colleagues working on educational resources across the Foundation.
 
 ![RPF GBIC team](images/GBICTeam.png)
 
