@@ -1,9 +1,9 @@
 ##  The 'Storytelling' approach
-There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in key stage 1 and builds on evidence that teaching computing through storytelling and story-writing is effective with 11- to 14-year-olds. The trial investigates whether this is also effective for pupils in key stage 1 (5- to 7-year-olds). This pilot will be evaluated, and the results will be used to determine whether the intervention will proceed to a full-scale trial.
+There is evidence that gender stereotypes develop early, but little evidence on interventions that target this early development of stereotypes, and none that relate specifically to computing. This pilot intervention focuses on pupils in key stage 1 and builds on evidence that teaching computing through storytelling and story-writing is effective with 11- to 14-year-olds. The project investigates whether this is also effective for pupils in Key Stage 1 (5- to 7-year-olds). This pilot will be evaluated, and the results will be used to determine whether the intervention will proceed to a full-scale randomised control trial.
 
-In the trial, you will use the 'Storytelling' teaching approach, which aims to use narrative to teach computing. Story-writing and digital storytelling are used to introduce computing topics to children when, for instance, teachers use game-based computing activities. Teachers are provided with resources that centre on teaching pupils computing through programming stories.
+In the project, you will use the 'Storytelling' teaching approach, which aims to use narrative to teach computing. Story-writing and digital storytelling are used to introduce computing topics to children when, for instance, teachers use game-based computing activities. Teachers are provided with resources that centre on teaching pupils computing through programming stories.
 
-During the 'Storytelling' trial, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than in the Scratch programming language. As you can see in the picture below, you drag and drop blocks into a horizontal 'storyline' in ScratchJr, so the relationship with reading or writing a story in literacy is clear.
+During the 'Storytelling' project, pupils learn to program in [ScratchJr](https://www.scratchjr.org), an age-appropriate programming tool. ScratchJr uses a format that is more similar to writing a story than in the Scratch programming language. As you can see in the picture below, you drag and drop blocks into a horizontal 'storyline' in ScratchJr, so the relationship with reading or writing a story in literacy is clear.
 
 ![Scratchjr.png](images/ks1storytelling-ScratchJr.png){:width="400px"}
 
@@ -11,7 +11,7 @@ This is different to the way in which the user stacks code in a vertical format 
 
 ![Scratch.png](images/ks1storytelling-Scratch.png){:width="400px"}
 
-The 'Storytelling' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The trial focuses on two strands of storytelling: story-writing (structure) and digital storytelling (this includes using animation, graphics, and audio to tell a story).
+The 'Storytelling' teaching approach introduces the fundamental computing concepts of sequence, repetition, and selection. The project focuses on two strands of storytelling: story-writing (structure) and digital storytelling (this includes using animation, graphics, and audio to tell a story).
 
 **Story-writing** is a means of exploring computer programming. Pupils use these skills to:
 + Construct a story
