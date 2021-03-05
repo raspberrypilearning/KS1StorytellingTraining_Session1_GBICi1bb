@@ -1,15 +1,16 @@
 ## Additional information and guidance
 
-The [Project guide](https://ncce.io/k2zQga) gives you all the information you need to take part in the trial and gives you a written outline of all the steps that have been covered in this session. This document was posted/emailed to your school when you signed up to this trial.
+The [Project Guide](https://ncce.io/k2zQga) gives you all the information you need to take part in the project and gives you a written outline of all the steps that have been covered in this session. 
 
 A reminder of your next steps:
-+ Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the trial
-+ Read through the Project guide
-+ Familiarise yourself with the trial resources and prepare for the lessons
++ Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the project
++ Read through the Project Guide
++ Familiarise yourself with the project resources and prepare for the lessons
 + Undertake the tasks outlined in the next two training sessions
++ Share your class list with the Behavioural Insights Team through using the template spreadsheet provided by them
 + Get in touch with us if you have any queries at any time before, during, or after the trial by emailing the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org)
 
-We are extremely excited to start the trial and really appreciate your support for the Gender Balance in Computing programme!
+We are extremely excited to start the project and really appreciate your support for the Gender Balance in Computing programme!
 
 Click the green button (below right) to go to the next step in this session.
 
