@@ -4,7 +4,7 @@ Hello, and welcome to the 'Storytelling' Teaching Approach trial, part of the Ge
 
 The online course is split into three sessions. You can access the sessions at different times, or complete the whole course at one time. You will be able to revisit the three sessions until the end of the Teaching Approach trial. 
  
-The 'Introduction to Storytelling' webinar was based on the information in this session, Session 1. If you attended the webinar, you may wish to skip to Session 2, or you can revisit the information by working through this session.
+The 'Introduction to Storytelling' webinar was based on the information in this session, Session 1. However, additional details are provided in this online training, so please do work through this session even if you attended the webinar.
  
 If you did not attend the webinar, you can watch the recording or work your way through this session to ensure that you understand the background and emphasis of the trial. If you would like to watch the recording, please see the video and slide deck below:
 
